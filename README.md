@@ -1,5 +1,5 @@
 # Demo Repo
 
-## Creating a demo repo locally.
+## Coding Challenges & Tutorials 
 
-Description here. 
+Slot Machine Game (JavaScript)
