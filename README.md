@@ -2,4 +2,4 @@
 
 ## Coding Challenges & Tutorials 
 
-Slot Machine Game (JavaScript)
+#### Slot Machine Game (JavaScript)
